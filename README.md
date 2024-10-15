@@ -2,7 +2,7 @@
 This project provides a detailed analysis of the Netflix Movies and TV Shows collection, highlighting key insights across several dimensions, such as genres, ratings, release dates, and geographical distribution. The aim is to explore the trends and patterns within Netflix's global content library. 
  
 # Key Insights
-**Titles, Ratings, Genres:** The dataset encompasses a wide variety of Netflix content, categorized into two main types: Movies (4,265 titles) and TV Shows (1,969 titles). The movie-to-TV show ratio indicates a higher concentration of films in the library. 
+**Titles, Ratings, Genres:** The dataset encompasses a wide variety of Netflix content, categorised into two main types: Movies (4,265 titles) and TV Shows (1,969 titles). The movie-to-TV show ratio indicates a higher concentration of films in the library. 
 
 **Ratings Distribution:** The chart displays the breakdown of content based on ratings, with TV-MA (mature audiences) being the most prevalent rating, followed by TV-14. This suggests that Netflix leans heavily towards content tailored for adult audiences. Ratings like TV-Y7 and G are far less frequent, indicating a smaller portion of children’s content. 
 
