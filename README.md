@@ -1,5 +1,5 @@
 # Netflix 
-This project provides a detailed analysis of the Netflix Movies and TV Shows collection, highlighting key insights across several dimensions, such as genres, ratings, release dates, and geographical distribution. The aim is to explore the trends and patterns within Netflix's global content library. 
+This project provides a detailed analysis of the Netflix Movies and TV Shows collection, highlighting key insights across several dimensions, such as genres, ratings, release dates, and geographical distribution. The aim is to explore the trends and patterns within Netflix's global content library. Kindly view the visualisation [HERE](https://public.tableau.com/views/Covid_19_India_/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
  
 # Key Insights
 **Titles, Ratings, Genres:** The dataset encompasses a wide variety of Netflix content, categorised into two main types: Movies (4,265 titles) and TV Shows (1,969 titles). The movie-to-TV show ratio indicates a higher concentration of films in the library. 
